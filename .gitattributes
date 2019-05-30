@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 print("你看到了嗎")
+if 吳泓諺會計 == 58.5:
+    print("Yeah!")
